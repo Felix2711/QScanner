@@ -71,5 +71,6 @@ void Scanner::on_scanButton_clicked()
             ui->portStatusDisplay->repaint();
         }
         //hallo
+
    }
 }
